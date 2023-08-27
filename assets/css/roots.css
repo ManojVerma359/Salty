@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Plus+Jakarta+Sans:wght@200;300;400;500;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+.ff-Poppins {
+  font-family: "Poppins" !important;
+}
+.ff-inter {
+  font-family: "inter" !important;
+}
+.ff-san {
+  font-family: sans-serif !important;
+}
+
+:root {
+  /* font-size */
+  --fs_xsm: 11px;
+  --fs_sm: 12px;
+  --fs_2sm: 14px;
+  --fs_md: 15px;
+  --fs_2md: 19px;
+  --fs_lg: 15px;
+  --fs_2lg: 21px;
+  --fs_lx: 16px;
+  --fs_2lx: 30px;
+  --fs_xl: 32px;
+  --fs_2xl: 42px;
+  --fs_xxl: 66px;
+  --fs_2xxl: 60px;
+
+  /* color */
+  --text_color: #2e476b;
+  --btntext_color: #f66f4d;
+  --darktext_color: #2d3134;
+  --text_gray: #5b5f62;
+  --bg_color: #2d3134;
+  --txt_color: #2d3134;
+  --bg_clr: #FAF8ED;
+}
+/* font-weight */
+.fw-400 {
+  font-weight: 400;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.fw-600 {
+  font-weight: 600;
+}
+.fw-700 {
+  font-weight: 700;
+}
+
+/* color */
+
+.text_color {
+  color: var(--text_color);
+}
+.btntext_color {
+  color: var(--btntext_color);
+}
+.darktext_color {
+  color: var(--darktext_color);
+}
+.text_gray {
+  color: var(--text_gray);
+}
+.bg_color {
+  background-color: var(--bg_color);
+}
+.bg_clr {
+  background-color: var(--bg_clr);
+}
+.txt_color{
+  color: var(--txt_color);
+}
+
+
+
+
+@media (min-width:768px) {
+
+  .fs_2xl {
+    font-size: var(--fs_2xl);
+  }
+  .fs_lg {
+    font-size: var(--fs_lg);
+  }
+  .fs_xl {
+    font-size: var(--fs_xl);
+  }
+  .fs_lx{
+    font-size: var(--fs_lx);
+  }
+  .fs_sm{
+    font-size: var(--fs_sm);
+  }
+  .fs_2xxl {
+    font-size: var(--fs_2xxl);
+  }
+  .fs_md {
+    font-size: var(--fs_md);
+  }
+  .fs_xsm {
+    font-size: var(--fs_xsm);
+  }
+  .fs_2sm {
+    font-size: var(--fs_2sm);
+  }
+}
