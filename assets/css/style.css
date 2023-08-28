@@ -308,7 +308,7 @@ p {
   padding-top: 140px;
 }
 .pt_240{
-  padding-top: 250px;
+  padding-top: 150px;
 }
 ul {
   padding-left: 0 !important;
@@ -418,7 +418,7 @@ ul {
     grid-column: 1/2;
   }
   .pt_240{
-    padding-top: 440px;
+    padding-top: 350px;
   }
   
   .box {
