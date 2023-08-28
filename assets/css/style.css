@@ -161,7 +161,7 @@ p {
   background: white;
 }
 .ml_14px {
-  margin-left: 14px;
+  margin-left: 5px;
 }
 
 .tablinks {
@@ -429,6 +429,9 @@ ul {
     border-radius: 38px;
     background: #fdfeff;
     box-shadow: 0px 28px 56px -6px rgba(246, 111, 77, 0.05);
+  }
+  .ml_14px {
+    margin-left: 14px;
   }
 }
 
