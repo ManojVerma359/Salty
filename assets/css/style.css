@@ -135,6 +135,7 @@ p {
   height: 178px;
   border-radius: 14px;
   background: rgba(255, 255, 255, 0.7);
+  
 }
 .pt-80 {
   padding-top: 80px;
@@ -187,6 +188,7 @@ p {
 .newletter {
   background-image: url(../image/Newsletter.png);
   background-size: cover;
+  border-radius: 30px;
   background-position: center;
   background-repeat: no-repeat;
 }
