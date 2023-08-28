@@ -48,7 +48,7 @@ span:hover svg circle {
 }
 
 .underline_nav:hover::after {
-  width: 53%;
+  width: 33%;
 }
 
 
@@ -308,6 +308,16 @@ p {
 .pt_240{
   padding-top: 250px;
 }
+ul {
+  padding-left: 0 !important;
+}
+ h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 0 !important;
+  font-weight: 500;
+  line-height: 1.2;
+  color: var(--bs-heading-color);
+}
 
 
 /* svg defs cliPpath rect:hover{
@@ -357,7 +367,7 @@ p {
   }
 
   .cross .line3 {
-    transform: rotate(-50deg) translateY(-50%);
+    transform: rotate(-54deg) translateY(-4%);
   }
 }
 
