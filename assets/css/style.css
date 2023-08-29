@@ -107,6 +107,8 @@ p {
   top: 35%;
   opacity: 4;
 }
+
+
 .crdimg {
   position: absolute;
   top: 45%;
@@ -159,6 +161,7 @@ p {
   padding: 10px 16px;
   border-radius: 46px;
   background: white;
+  border: solid;
 }
 .ml_14px {
   margin-left: 5px;
